@@ -1,4 +1,4 @@
-# Student Registration System
+# Student Registration System (Java)
 
 ## Overview
 This project is a Computer-based Student Registration System designed for the Sri Lanka College of Technology. The system facilitates the receptionist in managing student records efficiently. The main features include inserting new student details, searching for student information, updating records, and deleting student data when necessary.
